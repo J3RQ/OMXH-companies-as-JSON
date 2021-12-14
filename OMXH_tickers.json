@@ -37,8 +37,8 @@
       "Currency": "EUR",
       "Exchange": "HEL",
       "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "",
+      "Prev. Industry": "Health Care",
+      "Industry": "Health Care",
       "Short Name": "AIFORIA",
       "ISIN": "FI4000507934",
       "Firsth North": "Yes"
@@ -191,8 +191,8 @@
       "Currency": "EUR",
       "Exchange": "HEL",
       "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "",
+      "Prev. Industry": "Industrials",
+      "Industry": "Industrials",
       "Short Name": "BETOLAR",
       "ISIN": "FI4000512587",
       "Firsth North": "Yes"
@@ -796,8 +796,8 @@
       "Currency": "EUR",
       "Exchange": "HEL",
       "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "",
+      "Prev. Industry": "Industrials",
+      "Industry": "Industrials",
       "Short Name": "KEMPOWR",
       "ISIN": "FI4000513593",
       "Firsth North": "Yes"
@@ -888,6 +888,17 @@
       "Industry": "Industrials",
       "Short Name": "KREATE",
       "ISIN": "FI4000476866",
+      "Firsth North": "No"
+    },
+    {
+      "Company Name": "Lamor Corporation Oyj",
+      "Currency": "EUR",
+      "Exchange": "HEL",
+      "Segment": "",
+      "Prev. Industry": "Industrials",
+      "Industry": "Industrials",
+      "Short Name": "LAMOR",
+      "ISIN": "FI4000512488",
       "Firsth North": "No"
     },
     {
