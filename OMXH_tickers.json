@@ -15,8 +15,8 @@
       "Currency": "EUR",
       "Exchange": "HEL",
       "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "",
+      "Prev. Industry": "Industrials",
+      "Industry": "Industrials",
       "Short Name": "ADMIN",
       "ISIN": "FI4000513411",
       "Firsth North": "Yes"
