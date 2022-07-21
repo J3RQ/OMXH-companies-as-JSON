@@ -1,2114 +1,1562 @@
 [
-    {
-      "Company Name": "Aallon Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "AALLON",
-      "ISIN": "FI4000369608",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Administer Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ADMIN",
-      "ISIN": "FI4000513411",
-      "First North": "Yes"
-    },
-      {
-      "Company Name": "Admicom Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "ADMCM",
-      "ISIN": "FI4000251830",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Afarak Group Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "AFAGR",
-      "ISIN": "FI0009800098",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Aiforia Technologies Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "AIFORIA",
-      "ISIN": "FI4000507934",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Aktia Bank Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "AKTIA",
-      "ISIN": "FI4000058870",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Ålandsbanken Abp A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "ALBAV",
-      "ISIN": "FI0009000103",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Ålandsbanken Abp B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "ALBBV",
-      "ISIN": "FI0009001127",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Alexandria Pankkiiriliike Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Financials",
-      "Short Name": "ALEX",
-      "ISIN": "FI4000153465",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Alma Media Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "ALMA",
-      "ISIN": "FI0009013114",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Anora Group Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "ANORA",
-      "ISIN": "FI4000292438",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Apetit Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "APETIT",
-      "ISIN": "FI0009003503",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Aspo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Basic Materials",
-      "Short Name": "ASPO",
-      "ISIN": "FI0009008072",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Aspocomp Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Technology",
-      "Short Name": "ACG1V",
-      "ISIN": "FI0009008080",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Atria Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "ATRAV",
-      "ISIN": "FI0009006548",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Avidly Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "AVIDLY",
-      "ISIN": "FI0009015580",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Basware Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "BAS1V",
-      "ISIN": "FI0009008403",
-      "First North": "No"
-    },
-    {
-      "Company Name": "BBS-Bioactive Bone Substitutes Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "BONEH",
-      "ISIN": "FI4000260583",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Betolar Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "BETOLAR",
-      "ISIN": "FI4000512587",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Bilot Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "BILOT",
-      "ISIN": "FI4000414800",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Biohit Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "BIOBV",
-      "ISIN": "FI0009005482",
-      "First North": "No"
-    },
-    {
-      "Company Name": "BIORETEC LTD",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Health Care",
-      "Short Name": "BRETEC",
-      "ISIN": "FI4000480454",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Bittium Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "BITTI",
-      "ISIN": "FI0009007264",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Boreo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "BOREO",
-      "ISIN": "FI0009900724",
-      "First North": "No"
-    },
-    {
-      "Company Name": "CapMan Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "CAPMAN",
-      "ISIN": "FI0009009377",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Cargotec Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "CGCBV",
-      "ISIN": "FI0009013429",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Caverion Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "CAV1V",
-      "ISIN": "FI4000062781",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Citycon Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Financials",
-      "Industry": "Real Estate",
-      "Short Name": "CTY1S",
-      "ISIN": "FI4000369947",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Componenta Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Basic Materials",
-      "Short Name": "CTH1V",
-      "ISIN": "FI4000476783",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Consti Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "CONSTI",
-      "ISIN": "FI4000178256",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Detection Technology Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "DETEC",
-      "ISIN": "FI4000115464",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Digia Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "DIGIA",
-      "ISIN": "FI0009007983",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Digitalist Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "DIGIGR",
-      "ISIN": "FI0009008007",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Digital Workforce Services Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "DWF",
-      "ISIN": "FI4000513015",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Dovre Group Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "DOV1V",
-      "ISIN": "FI0009008098",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Duell Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "DUELL",
-      "ISIN": "FI4000513072",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "EAB Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "EAB",
-      "ISIN": "FI4000157441",
-      "First North": "No"
-    },
-    {
-      "Company Name": "EcoUp Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "ECOUP",
-      "ISIN": "FI4000511563",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Eezy Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "EEZY",
-      "ISIN": "FI4000322326",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Efecte Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "EFECTE",
-      "ISIN": "FI4000282868",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Elecster Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ELEAV",
-      "ISIN": "FI0009900658",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Elisa Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Telecommunications",
-      "Industry": "Telecommunications",
-      "Short Name": "ELISA",
-      "ISIN": "FI0009007884",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Endomines AB",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "ENDOM",
-      "ISIN": "SE0008294334",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Enedo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ENEDO",
-      "ISIN": "FI4000415252",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Enento Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "ENENTO",
-      "ISIN": "FI4000123195",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Enersense International Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "ESENSE",
-      "ISIN": "FI4000301585",
-      "First North": "No"
-    },
-    {
-      "Company Name": "eQ Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "EQV1V",
-      "ISIN": "FI0009009617",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Etteplan Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ETTE",
-      "ISIN": "FI0009008650",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Evli Pankki Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "EVLI",
-      "ISIN": "FI4000170915",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Exel Composites Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "EXL1V",
-      "ISIN": "FI0009007306",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Faron Pharmaceuticals Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "FARON",
-      "ISIN": "FI4000153309",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Fellow Finance Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "FELLOW",
-      "ISIN": "FI4000348974",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Fifax Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Consumer Staples",
-      "Short Name": "FIFAX",
-      "ISIN": "FI4000496328",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Finnair Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "FIA1S",
-      "ISIN": "FI0009003230",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Fiskars Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "FSKRS",
-      "ISIN": "FI0009000400",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Fodelia Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "FODELIA",
-      "ISIN": "FI4000400262",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Fondia Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "FONDIA",
-      "ISIN": "FI4000232913",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Fortum Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Utilities",
-      "Industry": "Utilities",
-      "Short Name": "FORTUM",
-      "ISIN": "FI0009007132",
-      "First North": "No"
-    },
-    {
-      "Company Name": "F-Secure Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "FSC1V",
-      "ISIN": "FI0009801310",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Glaston Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "GLA1V",
-      "ISIN": "FI4000369657",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Gofore Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "GOFORE",
-      "ISIN": "FI4000283130",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Harvia Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "HARVIA",
-      "ISIN": "FI4000306873",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Heeros Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "HEEROS",
-      "ISIN": "FI4000127527",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Herantis Pharma Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "HRTIS",
-      "ISIN": "FI4000087861",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "HKScan Oyj  A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "HKSAV",
-      "ISIN": "FI0009006308",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Honkarakenne Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "HONBS",
-      "ISIN": "FI0009900104",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Huhtamäki Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "HUH1V",
-      "ISIN": "FI0009000459",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Ilkka-Yhtymä Oyj 2",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "ILK2S",
-      "ISIN": "FI0009800205",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Incap Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ICP1V",
-      "ISIN": "FI0009006407",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Inderes Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "INDERES",
-      "ISIN": "FI4000348651",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Innofactor Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "IFA1V",
-      "ISIN": "FI0009007637",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Investors House Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Real Estate",
-      "Short Name": "INVEST",
-      "ISIN": "FI0009900559",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kamux Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "KAMUX",
-      "ISIN": "FI4000206750",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kemira Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "KEMIRA",
-      "ISIN": "FI0009004824",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kempower Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "KEMPOWR",
-      "ISIN": "FI4000513593",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Keskisuomalainen Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "KSLAV",
-      "ISIN": "FI0009007546",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kesko Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Staples",
-      "Short Name": "KESKOA",
-      "ISIN": "FI0009007900",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kesko Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Staples",
-      "Short Name": "KESKOB",
-      "ISIN": "FI0009000202",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kesla Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "KELAS",
-      "ISIN": "FI0009900237",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kojamo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Financials",
-      "Industry": "Real Estate",
-      "Short Name": "KOJAMO",
-      "ISIN": "FI4000312251",
-      "First North": "No"
-    },
-    {
-      "Company Name": "KONE Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "KNEBV",
-      "ISIN": "FI0009013403",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Konecranes Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "KCR",
-      "ISIN": "FI0009005870",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Kreate Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "KREATE",
-      "ISIN": "FI4000476866",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Lamor Corporation Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "LAMOR",
-      "ISIN": "FI4000512488",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Lassila & Tikanoja Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Utilities",
-      "Short Name": "LAT1V",
-      "ISIN": "FI0009010854",
-      "First North": "No"
-    },
-    {
-      "Company Name": "LeadDesk Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "LEADD",
-      "ISIN": "FI4000364120",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Lehto Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "LEHTO",
-      "ISIN": "FI4000081138",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Lemonsoft Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "LEMON",
-      "ISIN": "FI4000512678",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Lifeline SPAC I Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SPAC",
-      "Prev. Industry": "",
-      "Industry": "Financials",
-      "Short Name": "LL1SPAC",
-      "ISIN": "FI4000512496",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Loihde Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "LOIHDE",
-      "ISIN": "FI4000014238",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Loudspring Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "LOUD",
-      "ISIN": "FI4000092523",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Marimekko Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "MEKKO",
-      "ISIN": "FI0009007660",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Martela Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "MARAS",
-      "ISIN": "FI0009900385",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Merus Power Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "MERUS",
-      "ISIN": "FI4000506902",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Metsä Board Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "METSA",
-      "ISIN": "FI0009000640",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Metsä Board Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "METSB",
-      "ISIN": "FI0009000665",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Metso Outotec Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "MOCORP",
-      "ISIN": "FI0009014575",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Modulight Corporation",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "MODU",
-      "ISIN": "FI4000511506",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Musti Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "MUSTI",
-      "ISIN": "FI4000410758",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Nanoform Finland Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "First North Premier",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "NANOFH",
-      "ISIN": "FI4000330972",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Neles Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "NELES",
-      "ISIN": "FI4000440664",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Neste Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Oil & Gas",
-      "Industry": "Energy",
-      "Short Name": "NESTE",
-      "ISIN": "FI0009013296",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Netum Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Technology",
-      "Short Name": "NETUM",
-      "ISIN": "FI4000390943",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Nexstim Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "NXTMH",
-      "ISIN": "FI4000506811",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Next Games Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "NXTGMS",
-      "ISIN": "FI4000233267",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Nightingale Health Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Health Care",
-      "Short Name": "HEALTH",
-      "ISIN": "FI4000490875",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Nixu Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "NIXU",
-      "ISIN": "FI0009008387",
-      "First North": "No"
-    },
-    {
-      "Company Name": "NoHo Partners Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "NOHO",
-      "ISIN": "FI4000064332",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Nokia Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Technology",
-      "Industry": "Telecommunications",
-      "Short Name": "NOKIA",
-      "ISIN": "FI0009000681",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Nokian Renkaat Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "TYRES",
-      "ISIN": "FI0009005318",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Nordea Bank Abp",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "NDA FI",
-      "ISIN": "FI4000297767",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Nordic ID Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Technology",
-      "Short Name": "NORDID",
-      "ISIN": "FI4000327812",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Nurminen Logistics Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "NLG1V",
-      "ISIN": "FI0009900187",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Olvi Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "OLVAS",
-      "ISIN": "FI0009900401",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Oma Savings Bank Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "OMASP",
-      "ISIN": "FI4000306733",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Optomed Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "OPTOMED",
-      "ISIN": "FI4000410881",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Oriola Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "OKDAV",
-      "ISIN": "FI0009014344",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Oriola Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "OKDBV",
-      "ISIN": "FI0009014351",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Orion Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "ORNAV",
-      "ISIN": "FI0009014369",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Orion Oyj B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "ORNBV",
-      "ISIN": "FI0009014377",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Orthex Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "ORTHEX",
-      "ISIN": "FI4000480504",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Outokumpu Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "OUT1V",
-      "ISIN": "FI0009002422",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Ovaro Kiinteistösijoitus Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Real Estate",
-      "Short Name": "OVARO",
-      "ISIN": "FI4000349113",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Panostaja Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "PNA1V",
-      "ISIN": "FI0009800379",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Partnera Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "PARTNE1",
-      "ISIN": "FI0009009559",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Pihlajalinna Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "PIHLIS",
-      "ISIN": "FI4000092556",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Piippo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "PIIPPO",
-      "ISIN": "FI4000123070",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Ponsse Oyj 1",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "PON1V",
-      "ISIN": "FI0009005078",
-      "First North": "No"
-    },
-    {
-      "Company Name": "PunaMusta Media Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "PUMU",
-      "ISIN": "FI0009900468",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Purmo Group Oyj C",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "",
-      "Industry": "Shell Companies",
-      "Short Name": "PURMO",
-      "ISIN": "FI4000507488",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Puuilo Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "PUUILO",
-      "ISIN": "FI4000507124",
-      "First North": "No"
-    },
-    {
-      "Company Name": "QPR Software Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "QPR1V",
-      "ISIN": "FI0009008668",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Qt Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "QTCOM",
-      "ISIN": "FI4000198031",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Raisio Oyj Vaihto-osake",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "RAIVV",
-      "ISIN": "FI0009002943",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Rapala VMC Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "RAP1V",
-      "ISIN": "FI0009007355",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Raute Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "RAUTE",
-      "ISIN": "FI0009004741",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Reka Industrial Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "REKA",
-      "ISIN": "FI0009800296",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Relais Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "RELAIS",
-      "ISIN": "FI4000391487",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Remedy Entertainment Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "REMEDY",
-      "ISIN": "FI4000251897",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Revenio Group Corporation",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "REG1V",
-      "ISIN": "FI0009010912",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Robit Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "ROBIT",
-      "ISIN": "FI4000150016",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Rovio Entertainment Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "ROVIO",
-      "ISIN": "FI4000266804",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Rush Factory Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "RUSH",
-      "ISIN": "FI4000348909",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Saga Furs Oyj C",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "SAGCV",
-      "ISIN": "FI0009800551",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Sampo Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "SAMPO",
-      "ISIN": "FI0009003305",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Sanoma Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "SAA1V",
-      "ISIN": "FI0009007694",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Savosolar Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Oil & Gas",
-      "Industry": "Energy",
-      "Short Name": "SAVOH",
-      "ISIN": "FI4000425848",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Scanfil Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "SCANFL",
-      "ISIN": "FI4000029905",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Sievi Capital Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "SIEVI",
-      "ISIN": "FI0009008924",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Siili Solutions Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "SIILI",
-      "ISIN": "FI4000043435",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Sitowise Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "SITOWS",
-      "ISIN": "FI4000480215",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Skarta Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Financials",
-      "Industry": "Industrials",
-      "Short Name": "SKARTA",
-      "ISIN": "FI4000153515",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Solteq Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "SOLTEQ",
-      "ISIN": "FI0009007991",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Solwers Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "SOLWERS",
-      "ISIN": "FI4000452545",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Soprano Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "SOPRA",
-      "ISIN": "FI0009012793",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Sotkamo Silver AB",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "SOSI1",
-      "ISIN": "SE0001057910",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Spinnova Plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Industrials",
-      "Short Name": "SPINN",
-      "ISIN": "FI4000507595",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Springvest Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Financials",
-      "Short Name": "SPRING",
-      "ISIN": "FI4000369442",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "SRV Group plc",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "SRV1V",
-      "ISIN": "FI0009015309",
-      "First North": "No"
-    },
-    {
-      "Company Name": "SSAB AB ser. A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "SSABAH",
-      "ISIN": "SE0000171100",
-      "First North": "No"
-    },
-    {
-      "Company Name": "SSAB AB ser. B",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "SSABBH",
-      "ISIN": "SE0000120669",
-      "First North": "No"
-    },
-    {
-      "Company Name": "SSH Communications Security Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "SSH1V",
-      "ISIN": "FI0009008270",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Stockmann Oyj Abp",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "STOCKA",
-      "ISIN": "FI0009000251",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Stora Enso Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "STEAV",
-      "ISIN": "FI0009005953",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Stora Enso Oyj R",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "STERV",
-      "ISIN": "FI0009005961",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Suominen Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Goods",
-      "Industry": "Consumer Staples",
-      "Short Name": "SUY1V",
-      "ISIN": "FI0009010862",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Taaleri Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "TAALA",
-      "ISIN": "FI4000062195",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Talenom Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "TNOM",
-      "ISIN": "FI4000153580",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Tallink Grupp, AS",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "TALLINK",
-      "ISIN": "FI4000349378",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Tecnotree Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "TEM1V",
-      "ISIN": "FI0009010227",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Teleste Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Telecommunications",
-      "Short Name": "TLT1V",
-      "ISIN": "FI0009007728",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Telia Company AB",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Telecommunications",
-      "Industry": "Telecommunications",
-      "Short Name": "TELIA1",
-      "ISIN": "SE0000667925",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Terveystalo Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Health Care",
-      "Industry": "Health Care",
-      "Short Name": "TTALO",
-      "ISIN": "FI4000252127",
-      "First North": "No"
-    },
-    {
-      "Company Name": "TietoEVRY Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "TIETO",
-      "ISIN": "FI0009000277",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Titanium Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "TITAN",
-      "ISIN": "FI4000270350",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Toivo Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "",
-      "Industry": "Real Estate",
-      "Short Name": "TOIVO",
-      "ISIN": "FI4000496716",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Tokmanni Group Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "TOKMAN",
-      "ISIN": "FI4000197934",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Trainers' House Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "TRH1V",
-      "ISIN": "FI4000390885",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Tulikivi Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "TULAV",
-      "ISIN": "FI0009900583",
-      "First North": "No"
-    },
-    {
-      "Company Name": "United Bankers Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Financials",
-      "Industry": "Financials",
-      "Short Name": "UNITED",
-      "ISIN": "FI4000081427",
-      "First North": "No"
-    },
-    {
-      "Company Name": "UPM-Kymmene Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Basic Materials",
-      "Industry": "Basic Materials",
-      "Short Name": "UPM",
-      "ISIN": "FI0009005987",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Uponor Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "UPONOR",
-      "ISIN": "FI0009002158",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Vaisala Oyj A",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "VAIAS",
-      "ISIN": "FI0009900682",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Valmet Corporation",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "VALMT",
-      "ISIN": "FI4000074984",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Valoe Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "VALOE",
-      "ISIN": "FI0009006951",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Verkkokauppa.com Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "VERK",
-      "ISIN": "FI4000049812",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Viafin Service Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "VIAFIN",
-      "ISIN": "FI4000349212",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Viking Line Abp",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "MID",
-      "Prev. Industry": "Consumer Services",
-      "Industry": "Consumer Discretionary",
-      "Short Name": "VIK1V",
-      "ISIN": "FI0009005250",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Vincit Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "",
-      "Prev. Industry": "Technology",
-      "Industry": "Technology",
-      "Short Name": "VINCIT",
-      "ISIN": "FI4000185533",
-      "First North": "Yes"
-    },
-    {
-      "Company Name": "Wärtsilä Oyj Abp",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "WRT1V",
-      "ISIN": "FI0009003727",
-      "First North": "No"
-    },
-    {
-      "Company Name": "Wulff-Yhtiöt Oy",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "SMALL",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "WUF1V",
-      "ISIN": "FI0009008452",
-      "First North": "No"
-    },
-    {
-      "Company Name": "YIT Oyj",
-      "Currency": "EUR",
-      "Exchange": "HEL",
-      "Segment": "LARGE",
-      "Prev. Industry": "Industrials",
-      "Industry": "Industrials",
-      "Short Name": "YIT",
-      "ISIN": "FI0009800643",
-      "First North": "No"
-    }
-  ]
+  {
+    "Company Name": "Aallon Group Oyj",
+    "Short Name": "AALLON",
+    "ISIN": "FI4000369608",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Admicom Oyj",
+    "Short Name": "ADMCM",
+    "ISIN": "FI4000251830",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Administer Oyj",
+    "Short Name": "ADMIN",
+    "ISIN": "FI4000513411",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Afarak Group Plc",
+    "Short Name": "AFAGR",
+    "ISIN": "FI0009800098",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Aiforia Technologies Oyj",
+    "Short Name": "AIFORIA",
+    "ISIN": "FI4000507934",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Aktia Bank Plc",
+    "Short Name": "AKTIA",
+    "ISIN": "FI4000058870",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Alexandria Pankkiiriliike Oyj",
+    "Short Name": "ALEX",
+    "ISIN": "FI4000153465",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Alma Media Corporation",
+    "Short Name": "ALMA",
+    "ISIN": "FI0009013114",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Anora Group Plc",
+    "Short Name": "ANORA",
+    "ISIN": "FI4000292438",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Apetit Plc",
+    "Short Name": "APETIT",
+    "ISIN": "FI0009003503",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "AS Tallink Grupp FDR",
+    "Short Name": "TALLINK",
+    "ISIN": "FI4000349378",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Aspo Plc",
+    "Short Name": "ASPO",
+    "ISIN": "FI0009008072",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Aspocomp Group Plc",
+    "Short Name": "ACG1V",
+    "ISIN": "FI0009008080",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Asuntosalkku Oyj",
+    "Short Name": "ASUNTO",
+    "ISIN": "FI4000517602",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Atria Plc A",
+    "Short Name": "ATRAV",
+    "ISIN": "FI0009006548",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Avidly Oyj",
+    "Short Name": "AVIDLY",
+    "ISIN": "FI0009015580",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Bank of Åland Plc A",
+    "Short Name": "ALBAV",
+    "ISIN": "FI0009000103",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Bank of Åland Plc B",
+    "Short Name": "ALBBV",
+    "ISIN": "FI0009001127",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Basware Corporation",
+    "Short Name": "BAS1V",
+    "ISIN": "FI0009008403",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "BBS-Bioactive Bone Substitutes",
+    "Short Name": "BONEH",
+    "ISIN": "FI4000260583",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Betolar Oyj",
+    "Short Name": "BETOLAR",
+    "ISIN": "FI4000512587",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Bilot Oyj",
+    "Short Name": "BILOT",
+    "ISIN": "FI4000414800",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Biohit Oyj B",
+    "Short Name": "BIOBV",
+    "ISIN": "FI0009005482",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Bioretec Oy",
+    "Short Name": "BRETEC",
+    "ISIN": "FI4000480454",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Bittium Corporation",
+    "Short Name": "BITTI",
+    "ISIN": "FI0009007264",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Boreo Oyj",
+    "Short Name": "BOREO",
+    "ISIN": "FI0009900724",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "CapMan Plc",
+    "Short Name": "CAPMAN",
+    "ISIN": "FI0009009377",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Cargotec Oyj",
+    "Short Name": "CGCBV",
+    "ISIN": "FI0009013429",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Caverion Oyj",
+    "Short Name": "CAV1V",
+    "ISIN": "FI4000062781",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Citycon Oyj",
+    "Short Name": "CTY1S",
+    "ISIN": "FI4000369947",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Componenta Corporation",
+    "Short Name": "CTH1V",
+    "ISIN": "FI4000476783",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Consti Plc",
+    "Short Name": "CONSTI",
+    "ISIN": "FI4000178256",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Detection Technology Oyj",
+    "Short Name": "DETEC",
+    "ISIN": "FI4000115464",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Digia Plc",
+    "Short Name": "DIGIA",
+    "ISIN": "FI0009007983",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Digital Workforce Services Oyj",
+    "Short Name": "DWF",
+    "ISIN": "FI4000513015",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Digitalist Group Plc",
+    "Short Name": "DIGIGR",
+    "ISIN": "FI0009008007",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Dovre Group Plc",
+    "Short Name": "DOV1V",
+    "ISIN": "FI0009008098",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Duell Oyj",
+    "Short Name": "DUELL",
+    "ISIN": "FI4000513072",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "EAB Group Oyj",
+    "Short Name": "EAB",
+    "ISIN": "FI4000157441",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "EcoUp Oyj",
+    "Short Name": "ECOUP",
+    "ISIN": "FI4000511563",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Eezy Oyj",
+    "Short Name": "EEZY",
+    "ISIN": "FI4000322326",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Efecte Plc",
+    "Short Name": "EFECTE",
+    "ISIN": "FI4000282868",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Elecster Oyj A",
+    "Short Name": "ELEAV",
+    "ISIN": "FI0009900658",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Elisa Corporation",
+    "Short Name": "ELISA",
+    "ISIN": "FI0009007884",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Endomines AB",
+    "Short Name": "ENDOM",
+    "ISIN": "SE0008294334",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Enedo Plc",
+    "Short Name": "ENEDO",
+    "ISIN": "FI4000415252",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Enento Group Oyj",
+    "Short Name": "ENENTO",
+    "ISIN": "FI4000123195",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Enersense International Oyj",
+    "Short Name": "ESENSE",
+    "ISIN": "FI4000301585",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "eQ Oyj",
+    "Short Name": "EQV1V",
+    "ISIN": "FI0009009617",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Etteplan Oyj",
+    "Short Name": "ETTE",
+    "ISIN": "FI0009008650",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Evli Oyj",
+    "Short Name": "EVLI",
+    "ISIN": "FI4000513437",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Exel Composites Plc",
+    "Short Name": "EXL1V",
+    "ISIN": "FI0009007306",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Faron Pharmaceuticals Oy",
+    "Short Name": "FARON",
+    "ISIN": "FI4000153309",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Fellow Pankki Oyj",
+    "Short Name": "FELLOW",
+    "ISIN": "FI4000170915",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Fifax Abp",
+    "Short Name": "FIFAX",
+    "ISIN": "FI4000496328",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Finnair Oyj",
+    "Short Name": "FIA1S",
+    "ISIN": "FI0009003230",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Fiskars Corporation",
+    "Short Name": "FSKRS",
+    "ISIN": "FI0009000400",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Fodelia Oyj",
+    "Short Name": "FODELIA",
+    "ISIN": "FI4000400262",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Fondia Oyj",
+    "Short Name": "FONDIA",
+    "ISIN": "FI4000232913",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Fortum Corporation",
+    "Short Name": "FORTUM",
+    "ISIN": "FI0009007132",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Glaston  Corporation",
+    "Short Name": "GLA1V",
+    "ISIN": "FI4000369657",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Gofore Plc",
+    "Short Name": "GOFORE",
+    "ISIN": "FI4000283130",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Harvia Plc",
+    "Short Name": "HARVIA",
+    "ISIN": "FI4000306873",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Heeros Oyj",
+    "Short Name": "HEEROS",
+    "ISIN": "FI4000127527",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Herantis Pharma Oyj",
+    "Short Name": "HRTIS",
+    "ISIN": "FI4000087861",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "HKScan Oyj  A",
+    "Short Name": "HKSAV",
+    "ISIN": "FI0009006308",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Honkarakenne Oyj B",
+    "Short Name": "HONBS",
+    "ISIN": "FI0009900104",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Huhtamäki Oyj",
+    "Short Name": "HUH1V",
+    "ISIN": "FI0009000459",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Ilkka Oyj 2",
+    "Short Name": "ILKKA2",
+    "ISIN": "FI0009800205",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Incap Corporation",
+    "Short Name": "ICP1V",
+    "ISIN": "FI0009006407",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Inderes Oyj",
+    "Short Name": "INDERES",
+    "ISIN": "FI4000348651",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Innofactor Plc",
+    "Short Name": "IFA1V",
+    "ISIN": "FI0009007637",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Investors House Oyj",
+    "Short Name": "INVEST",
+    "ISIN": "FI0009900559",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kamux Corporation",
+    "Short Name": "KAMUX",
+    "ISIN": "FI4000206750",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kemira Oyj",
+    "Short Name": "KEMIRA",
+    "ISIN": "FI0009004824",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kempower Oyj",
+    "Short Name": "KEMPOWR",
+    "ISIN": "FI4000513593",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Keskisuomalainen Oyj A",
+    "Short Name": "KSLAV",
+    "ISIN": "FI0009007546",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kesko Corporation A",
+    "Short Name": "KESKOA",
+    "ISIN": "FI0009007900",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kesko Corporation B",
+    "Short Name": "KESKOB",
+    "ISIN": "FI0009000202",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kesla Oyj A",
+    "Short Name": "KELAS",
+    "ISIN": "FI0009900237",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kojamo Plc",
+    "Short Name": "KOJAMO",
+    "ISIN": "FI4000312251",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "KONE Corporation",
+    "Short Name": "KNEBV",
+    "ISIN": "FI0009013403",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Konecranes Plc",
+    "Short Name": "KCR",
+    "ISIN": "FI0009005870",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Kreate Group Plc",
+    "Short Name": "KREATE",
+    "ISIN": "FI4000476866",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Lamor Corporation Oyj",
+    "Short Name": "LAMOR",
+    "ISIN": "FI4000512488",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "LapWall Oyj",
+    "Short Name": "LAPWALL",
+    "ISIN": "FI4000511597",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Lassila & Tikanoja Plc",
+    "Short Name": "LAT1V",
+    "ISIN": "FI0009010854",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "LeadDesk Oyj",
+    "Short Name": "LEADD",
+    "ISIN": "FI4000364120",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Lehto Group Oyj",
+    "Short Name": "LEHTO",
+    "ISIN": "FI4000081138",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Lemonsoft Oyj",
+    "Short Name": "LEMON",
+    "ISIN": "FI4000512678",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Lifa Air Oyj",
+    "Short Name": "LIFA",
+    "ISIN": "FI4000518386",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Lifeline SPAC I Plc A",
+    "Short Name": "LL1SPAC",
+    "ISIN": "FI4000512496",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Loihde Oyj",
+    "Short Name": "LOIHDE",
+    "ISIN": "FI4000014238",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Loudspring Plc",
+    "Short Name": "LOUD",
+    "ISIN": "FI4000092523",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Marimekko Corporation",
+    "Short Name": "MEKKO",
+    "ISIN": "FI0009007660",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Martela Oyj A",
+    "Short Name": "MARAS",
+    "ISIN": "FI0009900385",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Merus Power Oyj",
+    "Short Name": "MERUS",
+    "ISIN": "FI4000506902",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Metsä Board Oyj A",
+    "Short Name": "METSA",
+    "ISIN": "FI0009000640",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Metsä Board Oyj B",
+    "Short Name": "METSB",
+    "ISIN": "FI0009000665",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Metso Outotec Oyj",
+    "Short Name": "MOCORP",
+    "ISIN": "FI0009014575",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Modulight Oyj",
+    "Short Name": "MODU",
+    "ISIN": "FI4000511506",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Musti Group Plc",
+    "Short Name": "MUSTI",
+    "ISIN": "FI4000410758",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Nanoform Finland Oyj",
+    "Short Name": "NANOFH",
+    "ISIN": "FI4000330972",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Neste Corporation",
+    "Short Name": "NESTE",
+    "ISIN": "FI0009013296",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Netum Group Oyj",
+    "Short Name": "NETUM",
+    "ISIN": "FI4000390943",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Nexstim Oyj",
+    "Short Name": "NXTMH",
+    "ISIN": "FI4000506811",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Next Games Oyj",
+    "Short Name": "NXTGMS",
+    "ISIN": "FI4000233267",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Nightingale Health Oyj B",
+    "Short Name": "HEALTH",
+    "ISIN": "FI4000490875",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Nixu Oyj",
+    "Short Name": "NIXU",
+    "ISIN": "FI0009008387",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "NoHo Partners Oyj",
+    "Short Name": "NOHO",
+    "ISIN": "FI4000064332",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Nokia Corporation",
+    "Short Name": "NOKIA",
+    "ISIN": "FI0009000681",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Nokian Tyres Plc",
+    "Short Name": "TYRES",
+    "ISIN": "FI0009005318",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Nordea Bank Abp",
+    "Short Name": "NDA FI",
+    "ISIN": "FI4000297767",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Norrhydro Group Oyj",
+    "Short Name": "NORRH",
+    "ISIN": "FI4000251954",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Nurminen Logistics Plc",
+    "Short Name": "NLG1V",
+    "ISIN": "FI0009900187",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Olvi Plc A",
+    "Short Name": "OLVAS",
+    "ISIN": "FI0009900401",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Oma Säästöpankki Oyj",
+    "Short Name": "OMASP",
+    "ISIN": "FI4000306733",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Optomed Plc",
+    "Short Name": "OPTOMED",
+    "ISIN": "FI4000410881",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Oriola Corporation A",
+    "Short Name": "OKDAV",
+    "ISIN": "FI0009014344",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Oriola Corporation B",
+    "Short Name": "OKDBV",
+    "ISIN": "FI0009014351",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Orion Corporation A",
+    "Short Name": "ORNAV",
+    "ISIN": "FI0009014369",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Orion Corporation B",
+    "Short Name": "ORNBV",
+    "ISIN": "FI0009014377",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Orthex Plc",
+    "Short Name": "ORTHEX",
+    "ISIN": "FI4000480504",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Outokumpu Oyj",
+    "Short Name": "OUT1V",
+    "ISIN": "FI0009002422",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Ovaro Kiinteistösijoitus Oyj",
+    "Short Name": "OVARO",
+    "ISIN": "FI4000349113",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Panostaja Oyj",
+    "Short Name": "PNA1V",
+    "ISIN": "FI0009800379",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Partnera Oyj",
+    "Short Name": "PARTNE1",
+    "ISIN": "FI0009009559",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Pihlajalinna Oyj",
+    "Short Name": "PIHLIS",
+    "ISIN": "FI4000092556",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Piippo Oyj",
+    "Short Name": "PIIPPO",
+    "ISIN": "FI4000123070",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Ponsse Oyj 1",
+    "Short Name": "PON1V",
+    "ISIN": "FI0009005078",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "PunaMusta Media Oyj",
+    "Short Name": "PUMU",
+    "ISIN": "FI0009900468",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Purmo Group Oyj C",
+    "Short Name": "PURMO",
+    "ISIN": "FI4000507488",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Puuilo Plc",
+    "Short Name": "PUUILO",
+    "ISIN": "FI4000507124",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "QPR Software Plc",
+    "Short Name": "QPR1V",
+    "ISIN": "FI0009008668",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Qt Group Oyj",
+    "Short Name": "QTCOM",
+    "ISIN": "FI4000198031",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Raisio Plc Vaihto-osake",
+    "Short Name": "RAIVV",
+    "ISIN": "FI0009002943",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Rapala VMC Corporation",
+    "Short Name": "RAP1V",
+    "ISIN": "FI0009007355",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Raute Corporation A",
+    "Short Name": "RAUTE",
+    "ISIN": "FI0009004741",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Reka Industrial Oyj",
+    "Short Name": "REKA",
+    "ISIN": "FI0009800296",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Relais Group Oyj",
+    "Short Name": "RELAIS",
+    "ISIN": "FI4000391487",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Remedy Entertainment Oyj",
+    "Short Name": "REMEDY",
+    "ISIN": "FI4000251897",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Revenio Group Corporation",
+    "Short Name": "REG1V",
+    "ISIN": "FI0009010912",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Robit Oyj",
+    "Short Name": "ROBIT",
+    "ISIN": "FI4000150016",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Rovio Entertainment Corporation",
+    "Short Name": "ROVIO",
+    "ISIN": "FI4000266804",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Rush Factory Plc",
+    "Short Name": "RUSH",
+    "ISIN": "FI4000348909",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Saga Furs Oyj C",
+    "Short Name": "SAGCV",
+    "ISIN": "FI0009800551",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Sampo Plc A",
+    "Short Name": "SAMPO",
+    "ISIN": "FI0009003305",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Sanoma Corporation",
+    "Short Name": "SANOMA",
+    "ISIN": "FI0009007694",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Savosolar Plc",
+    "Short Name": "SAVOH",
+    "ISIN": "FI4000425848",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Scanfil Plc",
+    "Short Name": "SCANFL",
+    "ISIN": "FI4000029905",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Sievi Capital plc",
+    "Short Name": "SIEVI",
+    "ISIN": "FI0009008924",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Siili Solutions Oyj",
+    "Short Name": "SIILI",
+    "ISIN": "FI4000043435",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Sitowise Group Plc",
+    "Short Name": "SITOWS",
+    "ISIN": "FI4000480215",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "SkartaNYAB Oyj",
+    "Short Name": "SKARTA",
+    "ISIN": "FI4000153515",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Solteq Oyj",
+    "Short Name": "SOLTEQ",
+    "ISIN": "FI0009007991",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Solwers Oyj",
+    "Short Name": "SOLWERS",
+    "ISIN": "FI4000452545",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Soprano Oyj",
+    "Short Name": "SOPRA",
+    "ISIN": "FI0009012793",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Sotkamo Silver AB",
+    "Short Name": "SOSI1",
+    "ISIN": "SE0001057910",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Spinnova Oyj",
+    "Short Name": "SPINN",
+    "ISIN": "FI4000507595",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Springvest Oyj",
+    "Short Name": "SPRING",
+    "ISIN": "FI4000369442",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "SRV Group Plc",
+    "Short Name": "SRV1V",
+    "ISIN": "FI0009015309",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "SSAB AB ser. A",
+    "Short Name": "SSABAH",
+    "ISIN": "SE0000171100",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "SSAB AB ser. B",
+    "Short Name": "SSABBH",
+    "ISIN": "SE0000120669",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "SSH Communications Security Oyj",
+    "Short Name": "SSH1V",
+    "ISIN": "FI0009008270",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Stockmann Plc",
+    "Short Name": "STOCKA",
+    "ISIN": "FI0009000251",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Stora Enso Oyj A",
+    "Short Name": "STEAV",
+    "ISIN": "FI0009005953",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Stora Enso Oyj R",
+    "Short Name": "STERV",
+    "ISIN": "FI0009005961",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Suominen Oyj",
+    "Short Name": "SUY1V",
+    "ISIN": "FI0009010862",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Taaleri Oyj",
+    "Short Name": "TAALA",
+    "ISIN": "FI4000062195",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Talenom Oyj",
+    "Short Name": "TNOM",
+    "ISIN": "FI4000153580",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Tecnotree Corporation",
+    "Short Name": "TEM1V",
+    "ISIN": "FI0009010227",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Teleste Corporation",
+    "Short Name": "TLT1V",
+    "ISIN": "FI0009007728",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Telia Company AB",
+    "Short Name": "TELIA1",
+    "ISIN": "SE0000667925",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Terveystalo Plc",
+    "Short Name": "TTALO",
+    "ISIN": "FI4000252127",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "TietoEVRY Corporation",
+    "Short Name": "TIETO",
+    "ISIN": "FI0009000277",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Titanium Oyj",
+    "Short Name": "TITAN",
+    "ISIN": "FI4000270350",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Toivo Group Oyj",
+    "Short Name": "TOIVO",
+    "ISIN": "FI4000496716",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Tokmanni Group Oyj",
+    "Short Name": "TOKMAN",
+    "ISIN": "FI4000197934",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Trainers' House Plc",
+    "Short Name": "TRH1V",
+    "ISIN": "FI4000519202",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Tulikivi Oyj A",
+    "Short Name": "TULAV",
+    "ISIN": "FI0009900583",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "United Bankers Oyj",
+    "Short Name": "UNITED",
+    "ISIN": "FI4000081427",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "UPM-Kymmene Corporation",
+    "Short Name": "UPM",
+    "ISIN": "FI0009005987",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Uponor Oyj",
+    "Short Name": "UPONOR",
+    "ISIN": "FI0009002158",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Vaisala Corporation A",
+    "Short Name": "VAIAS",
+    "ISIN": "FI0009900682",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Valmet Corporation",
+    "Short Name": "VALMT",
+    "ISIN": "FI4000074984",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Valoe Oyj",
+    "Short Name": "VALOE",
+    "ISIN": "FI0009006951",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Verkkokauppa.com Oyj",
+    "Short Name": "VERK",
+    "ISIN": "FI4000049812",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Viafin Service Oyj",
+    "Short Name": "VIAFIN",
+    "ISIN": "FI4000349212",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Viking Line Abp",
+    "Short Name": "VIK1V",
+    "ISIN": "FI0009005250",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Vincit Oyj",
+    "Short Name": "VINCIT",
+    "ISIN": "FI4000185533",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Wärtsilä Corporation",
+    "Short Name": "WRT1V",
+    "ISIN": "FI0009003727",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "WithSecure Corporation",
+    "Short Name": "FSC1V",
+    "ISIN": "FI0009801310",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "Witted Megacorp Oyj",
+    "Short Name": "WITTED",
+    "ISIN": "FI4000517461",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "Yes"
+  },
+  {
+    "Company Name": "Wulff Group Plc",
+    "Short Name": "WUF1V",
+    "ISIN": "FI0009008452",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  },
+  {
+    "Company Name": "YIT Corporation",
+    "Short Name": "YIT",
+    "ISIN": "FI0009800643",
+    "Exchange": "HEL",
+    "Currency": "EUR",
+    "First North": "No"
+  }
+]
